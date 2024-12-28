@@ -1,5 +1,5 @@
 /*
-5. Proportion of rides by weekday partitioned by weekday
+4. Proportion of rides by weekday partitioned by weekday
 */
 
 SELECT
