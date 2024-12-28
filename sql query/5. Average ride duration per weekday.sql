@@ -1,5 +1,5 @@
 /*
-6. Average ride duration per weekday
+5. Average ride duration per weekday
 */
 
 SELECT
