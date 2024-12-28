@@ -1,5 +1,5 @@
 /*
-9. Number of rides by time zone
+8. Number of rides by time zone
 */
 
 WITH timezone AS (
