@@ -1,5 +1,5 @@
 /*
-4. Number of rides by membership type
+1. Number of rides by membership type
 */
 
 SELECT
