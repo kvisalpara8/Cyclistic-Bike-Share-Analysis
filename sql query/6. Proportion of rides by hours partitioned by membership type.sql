@@ -1,5 +1,5 @@
 /*
-7. Proportion of rides by hours partitioned by membership type
+6. Proportion of rides by hours partitioned by membership type
 */
 
 SELECT
