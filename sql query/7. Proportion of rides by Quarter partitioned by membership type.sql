@@ -1,5 +1,5 @@
 /*
-8. Proportion of rides by Quarter partitioned by membership type
+7. Proportion of rides by Quarter partitioned by membership type
 */
 
 WITH seasonal AS (
